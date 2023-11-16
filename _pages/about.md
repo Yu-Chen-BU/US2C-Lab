@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about/
+permalink: /
 subtitle: Department of Electrical and Computer Engineering.
 
 profile:
