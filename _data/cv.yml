@@ -15,7 +15,7 @@
       institution: University of Southern California (USC), Los Angeles, U.S.A.
       year: 2006
       description:
-        - Adviser: Prof. Hai Hwang
+        - Supervisor: Prof. Hai Hwang
         
     - title: M.S.E.E
       institution: University of Southern California (USC), Los Angeles, U.S.A.
@@ -25,7 +25,7 @@
       institution: Chongqing University, Chongqing, China
       year: 1997
       description:
-        - Adviser: Prof. Xianxin Zhong
+        - Supervisor: Prof. Xianxin Zhong
       
 - title: Experience
   type: time_table
