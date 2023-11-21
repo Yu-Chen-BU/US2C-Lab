@@ -26,6 +26,10 @@
       year: 1997
       description:
         - Supervisor: Prof. Xianxin Zhong
+
+    - title: B.S.E.E
+      institution: Chongqing University, Chongqing, China
+      year: 1994
       
 - title: Experience
   type: time_table
