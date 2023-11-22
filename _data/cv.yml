@@ -57,22 +57,23 @@
     - year: 2023
       items: 
         - Stanford University’s list of the World’s 2% Top Cited Scientists 
-        - Matteucci Medal
+        
     - year: 2022
       items: 
         - Stanford University’s list of the World’s 2% Top Cited Scientists
-
+        
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Security & Privacy in Smart & Connected Environments 
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Edge-Fog-Cloud Computing Architecture
+        - Internet of Things (IoT) Ecosystems
+        
+    - title: Information Assurance
       items:
-        - Description 1.
-        - Description 2.
+        - AI-Generated Multimedia Content Authentication
+        - Misinformation, Disinformation, Malinformation Detection 
 
 - title: Other Interests
   type: list
