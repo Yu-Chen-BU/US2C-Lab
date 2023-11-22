@@ -2,7 +2,7 @@
 layout: page
 title: Dr. Yu Chen
 description: Professor
-img: /assets/img/ychen.jpg
+img: /assets/img/YCProfile0721.jpg
 importance: 1
 permalink: https://bingweb.binghamton.edu/~ychen/
 category: Our Team
