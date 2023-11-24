@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-19 11:59:00-0400
+date: 2023-06-26 11:59:00-0400
 inline: true
 ---
 
-Christmas Lunch! :sparkles: :smile:
+Ronghua successfully defended his dissertation. Congratulations! Dr. Xu will join Michigan Technological University this Fall as an Assistant Professor :sparkles: :smile:
