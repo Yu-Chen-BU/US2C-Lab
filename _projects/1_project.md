@@ -5,7 +5,7 @@ description: Research Assistant
 img: https://deerajnagothu.com/assets/img/prof_pic-1400.webp
 permalink: https://deerajnagothu.com/
 importance: 3
-category: Our Team
+category: Alumni
 ---
 
 Every project has a beautiful feature showcase page.
