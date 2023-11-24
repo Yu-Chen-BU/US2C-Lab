@@ -4,7 +4,7 @@ title: Dr. Yu Chen
 description: Professor
 img: /assets/img/YCProfile0721.jpg
 importance: 1
-permalink: https://bingweb.binghamton.edu/~ychen/
+permalink: https://www.binghamton.edu/electrical-computer-engineering/people/profile.html?id=ychen
 category: Our Team
 ---
 
