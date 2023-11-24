@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ronghua Xu
-description: Research Assistant
+description: Assistant Professor, Michigan Technological University
 img: /assets/img/Ronghua.jfif
 permalink: https://samuelxu999.github.io/
 importance: 1
