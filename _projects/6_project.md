@@ -4,7 +4,7 @@ title: Mohsen Hatami
 description: Research Assistant
 img: /assets/img/mohsen.jpg
 permalink: https://yu-chen-bu.github.io/US2C-Lab/projects/
-importance: 2
+importance: 4
 category: Our Team
 ---
 
