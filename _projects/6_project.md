@@ -3,7 +3,7 @@ layout: page
 title: Mohsen Hatami
 description: Research Assistant
 img: /assets/img/mohsen.jpg
-permalink: https://yu-chen-bu.github.io/US2C-Lab/projects/
+permalink: https://www.linkedin.com/in/mohsen-hatami-10a27567/
 importance: 4
 category: Our Team
 ---
