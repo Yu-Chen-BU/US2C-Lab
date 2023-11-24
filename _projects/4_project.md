@@ -4,7 +4,7 @@ title: Qian Qu
 description: Research Assistant
 img: /assets/img/Qian.PNG
 permalink: https://www.linkedin.com/in/qianqu112358/
-importance: 5
+importance: 3
 category: Our Team
 ---
 
