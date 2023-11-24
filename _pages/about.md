@@ -9,7 +9,7 @@ profile:
   image: GroupPic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>US2C Group in Action</p>
+    
    
 
 news: true  # includes a list of news items
