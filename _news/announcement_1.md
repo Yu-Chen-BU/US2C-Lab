@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-10 00:00:00-0400
+date: 2023-03-25 00:00:00-0400
 inline: true
 ---
 
-Presentation by Han Sun on body motion detection.
+Dr. Chen gave a keynote talk at CNIS 2023, "Digital Twins Enabled Virtual Community Healthcare in Metaverse Era".
