@@ -4,8 +4,8 @@ title: Ronghua Xu
 description: Research Assistant
 img: /assets/img/Ronghua.jfif
 permalink: https://samuelxu999.github.io/
-importance: 2
-category: Our Team
+importance: 1
+category: Alumni
 ---
 
 Every project has a beautiful feature showcase page.
