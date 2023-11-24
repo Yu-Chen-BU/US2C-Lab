@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title: Team
 permalink: /projects/
 description: 
 nav: true
