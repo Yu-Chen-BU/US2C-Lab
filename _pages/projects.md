@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Our Team] [Alumni]
+display_categories: [Our Team, Alumni]
 horizontal: false
 ---
 
