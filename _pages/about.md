@@ -5,7 +5,7 @@ permalink: /
 subtitle: Department of Electrical and Computer Engineering.
 
 profile:
-  align: right
+  align: center
   image: GroupPic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
