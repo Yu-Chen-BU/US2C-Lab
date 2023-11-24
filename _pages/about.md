@@ -2,15 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Department of Electrical and Computer Engineering.
+subtitle: Department of Electrical and Computer Engineering, Binghamton University.
 
 profile:
-  align: left
+  align: right
   image: GroupPic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href='#'>Dr. Yu Chen</a>. Professor, Department of Electrical and Computer Engineering.<br>Associate Director, Center for Information Assurance and Cybersecurity.</p>
-    <p>Binghamton University</p>
+    <p>US2C Group in Action</p>
    
 
 news: true  # includes a list of news items
