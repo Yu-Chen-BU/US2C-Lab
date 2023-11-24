@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Senior Design Project on collecting ENF data.
-date: 2022-10-03 16:11:00-0400
+title: Dr. Chen hosted the special session "HoTGAME: Hold the Truth Ground Against the Misinformation/Disinformation Era" at the 2023 SPIE Defense + Commercial Sensing.
+date: 2023-05-03 16:11:00-0400
 inline: false
 ---
 
