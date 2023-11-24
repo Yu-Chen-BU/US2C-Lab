@@ -112,7 +112,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: NEWS # blog_name will be displayed in your blog page
 blog_nav_title: News # your blog must have a title for it to be displayed in the nav bar
-blog_description: A Brief Record of Our Journey
+blog_description: This Is Our Journey
 #permalink: /blog/:year/:title/
 
 # Pagination
