@@ -3,7 +3,7 @@ layout: page
 title: Han Sun
 description: Research Assistant
 img: /assets/img/Han_Sun_cropped.jpg
-importance: 4
+importance: 3
 permalink: https://www.linkedin.com/in/hansun11140/
 category: Our Team
 ---
