@@ -3,7 +3,7 @@ layout: page
 title: Simeon Ogunbunmi
 description: Research Assistant
 img: /assets/img/simeon.jpg
-permalink: https://yu-chen-bu.github.io/US2C-Lab/projects/
+permalink: https://www.linkedin.com/in/simeon-ogunbunmi/
 importance: 6
 category: Our Team
 ---
