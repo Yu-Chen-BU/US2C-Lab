@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /activities/
 title: Activities
 nav: true
 nav_order: 2
