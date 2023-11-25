@@ -1,4 +1,8 @@
-- title: General Information
-  type: list
+- title: We gave a demo!
+  type: time_table
   contents:
-    - Reading, Jogging, Cooking, Watching Soccer, and Listening Music.
+      year: 2006
+      month: 08
+      date: 29
+      description:
+        The US2C team gave a demo for our visitors from AFRL.
