@@ -22,8 +22,8 @@ At the Intelligent and Sustainable Edge Computing (I-SEC) Laboratory, led by Dr.
 Currently, we focus on:
 
 - Secure-by-design IoT ecosystem atop a customized lightweight Blockchain network
-- Immersive and interconnected 3D edge-fog computing scenarios
-- Detecting and deterring misinformation, disinformation, and malinformation  
+- Immersive and interconnected 3D edge-fog computing paradigms
+- Detecting, deterring, and mitigating misinformation, disinformation, and malinformation  
 - Digital Twins and IoMT-enabled digital healthcare services (DHS)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
