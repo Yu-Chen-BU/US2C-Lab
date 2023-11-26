@@ -3,7 +3,7 @@
   contents:
     - title: We gave a demo!
       year: 2023
-    - description:
+      description:
         On August 28, 2023, the US2C team gave a demo for our visitors from AFRL.
 
 - title: Research Seminar Series
@@ -11,10 +11,11 @@
   contents:
     - title: An Introduction to Metaverse
       year: 2023
-    - description:
+      description:
         Mr. Qian Qu comprehensively introduced Metaverse, including its origin, history, layered architecture, critical enabling technologies, and his current research.
         
    - title: Joint Group Research Seminar Starts Fall 2023
       year: 2023
-   -  description:
+      description:
         The US2C team will have joint group meetings this semester with groups led by Prof. Edward Li and Prof. Wenfeng Zhao.
+
