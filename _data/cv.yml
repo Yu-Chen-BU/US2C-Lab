@@ -1,6 +1,11 @@
 - title: US2C Lab Activities
   type: time_table
   contents:
+    - title: An Introduction to Metaverse
+      year: 2023
+      description:
+        Mr. Qian Qu comprehensively introduced Metaverse, including its origin, history, layered architecture, critical enabling technologies, and his current research.
+  
     - title: We gave a demo!
       year: 2023
       description:
@@ -9,11 +14,6 @@
 - title: Research Seminar Series
   type: time_table
   contents:
-    - title: An Introduction to Metaverse
-      year: 2023
-      description:
-        Mr. Qian Qu comprehensively introduced Metaverse. #, including its origin, history, layered architecture, critical enabling technologies, and his current research.
-
    - title: Joint Group Research Seminar Starts Fall 2023
       year: 2023
       description:
