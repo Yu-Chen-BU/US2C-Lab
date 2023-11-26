@@ -9,7 +9,12 @@
 - title: Research Seminar Series
   type: time_table
   contents:
-    - title: Joint Group Research Seminar Starts Fall 2023
+    - title: An Introduction to Metaverse
+      year: 2023
+      description:
+        Mr. Qian Qu comprehensively introduced Metaverse, including its origin, history, layered architecture, critical enabling technologies, and the state-of-the-art.
+
+   - title: Joint Group Research Seminar Starts Fall 2023
       year: 2023
       description:
         The US2C team will have joint group meetings this semester with groups led by Prof. Edward Li and Prof. Wenfeng Zhao.
