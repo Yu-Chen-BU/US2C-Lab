@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-At the Intelligent and Sustainable Edge Computing (I-SEC) Laboratory at Binghamton University, led by Dr. Yu Chen, Professor of Electrical and Computer Engineering, we are at the forefront of pioneering the next generation of intelligent IoT technologies. Our research is centered around Trust, Security, and Privacy within the Edge-Fog-Cloud Computing paradigm, specifically focusing on the Internet of Things (IoT) and its applications in creating smart, interconnected environments. 
+At the Intelligent and Sustainable Edge Computing (I-SEC) Laboratory, led by Dr. Yu Chen, Professor of Electrical and Computer Engineering, we are at the forefront of pioneering the next generation of intelligent IoT technologies. Our research is centered around Trust, Security, and Privacy within the Edge-Fog-Cloud Computing paradigm, specifically focusing on the Internet of Things (IoT) and its applications in creating smart, interconnected environments. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
