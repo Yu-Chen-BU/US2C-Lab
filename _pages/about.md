@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-At the Intelligent and Sustainable Edge Computing (I-SEC) Laboratory, led by Dr. Yu Chen, Professor of Electrical and Computer Engineering, we are at the forefront of pioneering the next generation of intelligent IoT technologies. Our research is centered around Trust, Security, and Privacy within the Edge-Fog-Cloud Computing paradigm, specifically focusing on the Internet of Things (IoT) and its applications in creating smart, interconnected environments. 
+At the Intelligent and Sustainable Edge Computing (I-SEC) Laboratory, led by Dr. Yu Chen, Professor of Electrical and Computer Engineering, we are at the forefront of pioneering the next generation of intelligent Internet of Things (IoT) technologies. Our research is centered around Trust, Security, and Privacy within the Edge-Fog-Cloud Computing paradigm, specifically focusing on the IoT and its applications in creating intelligent and interconnected environments. 
 
 Currently, we focus on:
 
