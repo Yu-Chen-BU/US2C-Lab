@@ -8,21 +8,17 @@
 
 
 
-- title: I-SEC Research Seminars
-  type: time_table
+
+        
+- title: Academic Interests
+  type: nested_list
   contents:
-     year: 2023
+    - title: Security & Privacy in Smart & Connected Environments 
       items: 
-        - 2023-10-06 Presenter - Han Sun
-        - RESAM - Han reported her recent research on a rapid response system for elderly safety monitoring based on progressive hierarchical action recognition.
+        - Edge-Fog-Cloud Computing Architecture
+        - Internet of Things (IoT) Ecosystems
         
-    year: 2023
-      items: 
-        - 2023-09-22 Presenter - Nihal Poredi
-        - Full Spectrum Surveillance - Nihal highlighted his recent achievements on FUSERS - Full Spectrum Environment Resilient Surveillance.
-        
-    year: 2023
-      items: 
-        - 2023-09-08 Presenter - Qian Qu
-        - An Introduction to Metaverse - Qian comprehensively introduced the Metaverse, including its origin, history, and critical enabling technologies.
-        
+    - title: Information Assurance
+      items:
+        - AI-Generated Multimedia Content Authentication
+        - Misinformation, Disinformation, Malinformation Detection & Mitigation 
