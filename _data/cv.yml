@@ -6,6 +6,14 @@
       description:
         On August 28, 2023, the I-SEC team gave a demo to our visitors from AFRL.
 
+- title: I-SEC Research Seminars
+  type: time_table
+  contents:
+     year: 2023
+      items: 
+        - 2023-10-06 Presenter - Han Sun
+        - RESAM - Han reported her recent research on a rapid response system for elderly safety monitoring based on progressive hierarchical action recognition.
+
 
 - title: Academic Interests
   type: nested_list
