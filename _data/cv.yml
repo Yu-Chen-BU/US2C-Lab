@@ -11,6 +11,14 @@
 - title: I-SEC Research Seminars
   type: time_table
   contents:
+  - year: 2023
+      items: 
+        - 2023-10-27 Presenter - Lhamo Dorjie 
+        - Lhamo introduced an Environmental Resilient 5G Millimeter Imaging Technology-based Surveillance System.
+        - year: 2023
+      items: 
+        - 2023-10-13 Presenter - Yunxiang Zhang 
+        - Yunxiang discussed his work titled Algorithm-Hardware Codesign for Efficient Processing and Analytics in Wearable and Edge Devices.
     - year: 2023
       items: 
         - 2023-10-06 Presenter - Han Sun 
