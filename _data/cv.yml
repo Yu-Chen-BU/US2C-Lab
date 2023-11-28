@@ -13,12 +13,14 @@
   contents:
     - year: 2023
       items: 
+        - 2023-10-06 Presenter - Han Sun 
+        - RESAM - Han reported her recent research on a rapid response system for elderly safety monitoring based on progressive hierarchical action recognition.
+    - year: 2023
+      items: 
         - 2023-09-22 Presenter - Nihal Poredi 
         - Full Spectrum Surveillance - Nihal highlighted his recent achievements on FUSERS - Full Spectrum Environment Resilient Surveillance.
     - year: 2023
       items: 
         - 2023-09-08 Presenter - Qian Qu 
         - An Introduction to Metaverse - Qian comprehensively introduced the Metaverse, including its origin, history, and critical enabling technologies.
-        external_link:
-         label: "Slides"
-         url: "https://drive.google.com/file/d/18XdGhUYX3wnKq3cWhvyHJP7tkBtlkBRn/view?usp=sharing"
+        
