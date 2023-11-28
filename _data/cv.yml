@@ -6,24 +6,15 @@
       description:
         On August 28, 2023, the I-SEC team gave a demo to our visitors from AFRL.
 
+
 - title: I-SEC Research Seminars
-  type: time_table
-  contents:
-     year: 2023
-      items: 
-        - 2023-10-06 Presenter - Han Sun
-        - RESAM - Han reported her recent research on a rapid response system for elderly safety monitoring based on progressive hierarchical action recognition.
-
-
-- title: Academic Interests
   type: nested_list
   contents:
-    - title: Security & Privacy in Smart & Connected Environments 
+    - title: 2023-10-06 RESAM
       items: 
-        - Edge-Fog-Cloud Computing Architecture
-        - Internet of Things (IoT) Ecosystems
-        
-    - title: Information Assurance
+        - Han reported her recent research on a rapid response system for elderly safety monitoring based on progressive hierarchical action recognition.
+               
+    - title: 2023-09-22 Full Spectrum Surveillance
       items:
-        - AI-Generated Multimedia Content Authentication
-        - Misinformation, Disinformation, Malinformation Detection & Mitigation 
+        - Nihal highlighted his recent achievements on FUSERS - Full Spectrum Environment Resilient Surveillance.
+        
