@@ -7,14 +7,20 @@
         On August 28, 2023, the I-SEC team gave a demo to our visitors from AFRL.
 
 
-- title: I-SEC Research Seminars
+- title: Academic Interests
   type: nested_list
   contents:
-   - title: Presenter Lhamo Dorjie
+    - title: Security & Privacy in Smart & Connected Environments 
       items: 
-        - Lhamo introduced an Environmental Resilient 5G Millimeter Imaging Technology-based Surveillance System.  
+        - Edge-Fog-Cloud Computing Architecture
+        - Internet of Things (IoT) Ecosystems
         
-    - title: Presenter Yunxiang Zhang
+    - title: Information Assurance
       items:
-        - Yunxiang discussed his work titled Algorithm-Hardware Codesign for Efficient Processing and Analytics in Wearable and Edge Devices.           
+        - AI-Generated Multimedia Content Authentication
+        - Misinformation, Disinformation, Malinformation Detection & Mitigation 
 
+- title: Hobbies
+  type: list
+  contents:
+    - Reading, Jogging, Cooking, Watching Soccer, and Listening Music.
