@@ -2,7 +2,7 @@
 layout: page
 title: Hozefa Lakadawala
 description: Research Assistant
-img: /assets/img/simeon.jpg
+img: /assets/img/hozefa.jfif
 permalink: https://www.linkedin.com/in/hozefa-lakadawala/
 importance: 7
 category: Our Team
