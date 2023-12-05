@@ -10,6 +10,10 @@
 - title: I-SEC Research Seminars
   type: nested_list
   contents:
+    - title: 2023-11-03 Presenter - Adilet Pazylkarim 
+      items: 
+        - Adilet reported his recent progress in the Development of ENF Spectrogram Image Classifier 
+
     - title: 2023-10-27 Presenter - Lhamo Dorjie 
       items: 
         - Lhamo introduced an Environmental Resilient 5G Millimeter Imaging Technology-based Surveillance System
