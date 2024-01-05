@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-07-10 00:00:00-0400
+date: 2024-01-02 00:00:00-0400
 inline: true
 ---
 
-:fireworks: :sparkles: :smile: Congratulations Deeraj successfully defended his dissertation! Dr. Nagothu will join Intelligent Fusion Technology, Inc. in August as a Research Scientist 
+:fireworks: Congratulations Dr. Chen has been elected to the grade of Fellow of SPIE! 
