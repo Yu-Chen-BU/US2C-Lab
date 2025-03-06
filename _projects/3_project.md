@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Han Sun
-description: Dept of Information and Electronic Engineering (Sussex Artificial Intelligence Institute), Zhejiang Gongshang University, China
+description: Ph.D. Summer 2024, Dept. of Information and Electronic Engineering (Sussex Artificial Intelligence Institute), Zhejiang Gongshang University
 img: /assets/img/Han_Sun_cropped.jpg
 importance: 1
 permalink: https://www.linkedin.com/in/hansun11140/
