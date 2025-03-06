@@ -2,7 +2,7 @@
 layout: page
 title: Deeraj Nagothu
 description: Ph.D. Summer 2023, Research Scientist, Intelligent Fusion Technology, Inc.
-img: https://deerajnagothu.com/assets/img/prof_pic-1400.webp
+img: /assets/img/Deeraj_pic.PNG
 permalink: https://deerajnagothu.com/
 importance: 2
 category: Alumni
