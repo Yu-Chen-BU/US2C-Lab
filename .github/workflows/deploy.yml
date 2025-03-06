@@ -21,6 +21,10 @@ jobs:
       with:
         ruby-version: '3.0.2'
         bundler-cache: true
+    - name: Update Bundler
+      run: gem install bundler -v "$(grep -E 'BUNDLED WITH' Gemfile.lock | tr -d 'BUNDLED WITH')"
+    - name: Clean Gemfile.lock
+      run: rm -f Gemfile.lock     
     - name: Install deps
       run: |
         npm install -g mermaid.cli
