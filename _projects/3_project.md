@@ -3,9 +3,9 @@ layout: page
 title: Han Sun
 description: Research Assistant
 img: /assets/img/Han_Sun_cropped.jpg
-importance: 3
+importance: 1
 permalink: https://www.linkedin.com/in/hansun11140/
-category: Our Team
+category: Alumni
 ---
 
 Every project has a beautiful feature showcase page.
