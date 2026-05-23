@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications from the last six years (2018 - 2023).
-years: [2023, 2022, 2021, 2020, 2019, 2018]
+description: Selected publications from the I-SEC Lab (2018 - 2026).
+years: [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018]
 nav: true
 nav_order: 3
 ---

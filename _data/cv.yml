@@ -1,6 +1,22 @@
 - title: I-SEC Lab Activities
   type: time_table
   contents:
+    - title: NSF RDMC Workshop Keynote
+      year: 2026
+      description:
+        Dr. Chen delivered the keynote at the 2026 NSF Workshop on Research Data Management in Construction Engineering, hosted by Michigan Technological University.
+    - title: SPIE Defense + Security 2026 Invited Panel
+      year: 2026
+      description:
+        Dr. Chen served as an invited panelist on Information Fusion for Health Monitoring at SPIE Defense + Security 2026.
+    - title: Three PhD Graduates Join Virginia State University
+      year: 2025
+      description:
+        Dr. Qian Qu, Dr. Nihal Poredi, and Dr. Simeon Ogunbunmi completed their dissertations and joined Virginia State University.
+    - title: Best Workshop Paper Award
+      year: 2025
+      description:
+        The lab's paper received the Best Workshop Paper Award at SPT-IoT, held in conjunction with IEEE PerCom 2025.
     - title: We gave a demo!
       year: 2023
       description:

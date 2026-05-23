@@ -17,14 +17,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-At the Intelligent and Sustainable Edge Computing (I-SEC) Laboratory, led by Dr. Yu Chen, Professor of Electrical and Computer Engineering, we are at the forefront of pioneering the next generation of intelligent Internet of Things (IoT) technologies. Our research is centered around Trust, Security, and Privacy within the Edge-Fog-Cloud Computing paradigm, specifically focusing on the IoT and its applications in creating intelligent and interconnected environments. 
+At the Intelligent and Sustainable Edge Computing (I-SEC) Laboratory, led by Dr. Yu Chen, Professor of Electrical and Computer Engineering, we pioneer the next generation of trustworthy and intelligent Internet of Things (IoT) technologies. Our research is centered around Trust, Security, and Privacy within the Edge-Fog-Cloud Computing paradigm and its applications in creating intelligent, interconnected environments.
+
+A unifying theme of our work is *physical grounding for AI trust*: before any AI system makes a consequential decision, the data and context feeding it should be verifiable through physics, not statistics alone. Environmental fingerprints — most notably the Electrical Network Frequency (ENF) signal — serve as physically unforgeable anchors that tie digital content and devices to verifiable real-world context.
 
 Currently, we focus on:
 
-- Secure-by-design IoT ecosystem atop a customized lightweight Blockchain network
-- Immersive and interconnected 3D edge-fog computing paradigms
-- Detecting, deterring, and mitigating misinformation, disinformation, and malinformation  
+- Physically grounded authentication using ENF and multi-physics environmental fingerprints
+- Secure-by-design IoT ecosystems atop lightweight blockchain networks and physical-layer oracle authentication
+- Detecting, deterring, and mitigating AI-generated content, deepfakes, and digital echo chambers
+- Behavioral and multi-dimensional trust verification for decentralized and multi-agent AI systems
 - Digital Twins and IoMT-enabled digital healthcare services (DHS)
+- Immersive and interconnected 3D edge-fog computing paradigms
 
 
 
