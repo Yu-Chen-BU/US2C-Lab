@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 372" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">
+  <rect x="1" y="1" width="718" height="370" rx="12" fill="#ffffff" stroke="#e6e6e6"/>
+  <text x="360" y="36" text-anchor="middle" font-size="17" font-weight="700" fill="#1f1f1f">Multi-Modal, Physics-Grounded Deepfake Detection</text>
+
+  <!-- input -->
+  <rect x="36" y="150" width="116" height="68" rx="8" fill="#eef1f6" stroke="#cdd6e2"/>
+  <text x="94" y="178" text-anchor="middle" font-size="11.5" font-weight="700" fill="#2a2a2a">Input media</text>
+  <text x="94" y="196" text-anchor="middle" font-size="10" fill="#3a3a3a">image · audio</text>
+  <text x="94" y="208" text-anchor="middle" font-size="10" fill="#3a3a3a">· video</text>
+
+  <!-- branches -->
+  <g font-size="11" fill="#2a2a2a">
+    <rect x="206" y="62" width="244" height="48" rx="8" fill="#faf3fb" stroke="#e3c9e4"/>
+    <text x="222" y="84" font-weight="700">Frequency-domain + topology</text>
+    <text x="222" y="100" font-size="9.5" fill="#6a6a6a">DCT · wavelets · persistent homology · Benford</text>
+
+    <rect x="206" y="124" width="244" height="48" rx="8" fill="#faf3fb" stroke="#e3c9e4"/>
+    <text x="222" y="146" font-weight="700">Spatial-patch forensics</text>
+    <text x="222" y="162" font-size="9.5" fill="#6a6a6a">LBP · GLCM · entropy · generator attribution</text>
+
+    <rect x="206" y="186" width="244" height="48" rx="8" fill="#f7edf7" stroke="#B509AC"/>
+    <text x="222" y="208" font-weight="700" fill="#7a1a72">ENF physical anchor</text>
+    <text x="222" y="224" font-size="9.5" fill="#8a6a8c">power-grid frequency in audio &amp; video</text>
+
+    <rect x="206" y="248" width="244" height="48" rx="8" fill="#faf3fb" stroke="#e3c9e4"/>
+    <text x="222" y="270" font-weight="700">Temporal consistency</text>
+    <text x="222" y="286" font-size="9.5" fill="#6a6a6a">optical flow · frame-difference coherence</text>
+  </g>
+
+  <!-- fusion -->
+  <rect x="500" y="150" width="104" height="68" rx="8" fill="#eef1f6" stroke="#cdd6e2"/>
+  <text x="552" y="178" text-anchor="middle" font-size="11.5" font-weight="700" fill="#2a2a2a">Multi-modal</text>
+  <text x="552" y="194" text-anchor="middle" font-size="11.5" font-weight="700" fill="#2a2a2a">fusion</text>
+  <text x="552" y="210" text-anchor="middle" font-size="9.5" fill="#6a6a6a">HyMU-AIGC</text>
+
+  <!-- output -->
+  <rect x="630" y="150" width="58" height="68" rx="8" fill="#f7edf7" stroke="#B509AC"/>
+  <text x="659" y="180" text-anchor="middle" font-size="10.5" font-weight="700" fill="#B509AC">Real /</text>
+  <text x="659" y="195" text-anchor="middle" font-size="10.5" font-weight="700" fill="#B509AC">AI-gen</text>
+
+  <!-- arrows input->branches -->
+  <g stroke="#9a9a9a" stroke-width="1.5" fill="none">
+    <path d="M152 184 C176 184 182 86 204 86"/>
+    <path d="M152 184 C176 184 182 148 204 148"/>
+    <path d="M152 184 C176 184 182 210 204 210"/>
+    <path d="M152 184 C176 184 182 272 204 272"/>
+  </g>
+  <!-- arrows branches->fusion -->
+  <g stroke="#9a9a9a" stroke-width="1.5" fill="none">
+    <path d="M450 86 C476 86 478 184 498 184"/>
+    <path d="M450 148 C476 148 478 184 498 184"/>
+    <path d="M450 210 C476 210 478 184 498 184"/>
+    <path d="M450 272 C476 272 478 184 498 184"/>
+  </g>
+  <g stroke="#9a9a9a" stroke-width="1.6" fill="#9a9a9a">
+    <line x1="604" y1="184" x2="626" y2="184"/><polygon points="630,184 620,179 620,189"/>
+  </g>
+
+  <text x="360" y="346" text-anchor="middle" font-size="11" font-style="italic" fill="#7a7a7a">Topological and physical features stay valid as generative models evolve — no detector retraining race</text>
+</svg>

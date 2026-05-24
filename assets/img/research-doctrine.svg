@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 392" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">
+  <rect x="1" y="1" width="718" height="390" rx="12" fill="#ffffff" stroke="#e6e6e6"/>
+  <text x="360" y="40" text-anchor="middle" font-size="19" font-weight="700" fill="#1f1f1f">Physical Grounding for AI Trust</text>
+  <text x="360" y="61" text-anchor="middle" font-size="12.5" fill="#7a7a7a">Verify the physical event before trusting the digital claim</text>
+
+  <!-- DIGITAL band -->
+  <text x="46" y="92" font-size="10.5" font-weight="700" fill="#B509AC" letter-spacing="1.4">DIGITAL CLAIM</text>
+  <g font-size="11.5" fill="#2a2a2a" text-anchor="middle">
+    <rect x="46" y="100" width="186" height="40" rx="7" fill="#eef1f6" stroke="#cdd6e2"/>
+    <text x="139" y="124">AI-generated media</text>
+    <rect x="267" y="100" width="186" height="40" rx="7" fill="#eef1f6" stroke="#cdd6e2"/>
+    <text x="360" y="124">Autonomous agent decision</text>
+    <rect x="488" y="100" width="186" height="40" rx="7" fill="#eef1f6" stroke="#cdd6e2"/>
+    <text x="581" y="124">Sensor data stream</text>
+  </g>
+
+  <!-- arrow down -->
+  <line x1="360" y1="142" x2="360" y2="172" stroke="#9a9a9a" stroke-width="1.6"/>
+  <polygon points="360,178 355,168 365,168" fill="#9a9a9a"/>
+  <text x="374" y="164" font-size="10.5" fill="#7a7a7a" font-style="italic">verified against</text>
+
+  <!-- ANCHOR layer -->
+  <rect x="46" y="184" width="628" height="86" rx="10" fill="#f7edf7" stroke="#B509AC" stroke-width="1.4"/>
+  <text x="360" y="208" text-anchor="middle" font-size="13" font-weight="700" fill="#B509AC">PHYSICAL-ANCHORING LAYER</text>
+  <g font-size="11" fill="#3a2340" text-anchor="middle">
+    <rect x="70" y="222" width="130" height="32" rx="16" fill="#ffffff" stroke="#d9b6db"/>
+    <text x="135" y="242">ENF</text>
+    <rect x="222" y="222" width="130" height="32" rx="16" fill="#ffffff" stroke="#d9b6db"/>
+    <text x="287" y="242">PRNU sensor noise</text>
+    <rect x="374" y="222" width="130" height="32" rx="16" fill="#ffffff" stroke="#d9b6db"/>
+    <text x="439" y="242">Topological traces</text>
+    <rect x="526" y="222" width="124" height="32" rx="16" fill="#ffffff" stroke="#d9b6db"/>
+    <text x="588" y="242">Quantum anchors</text>
+  </g>
+
+  <!-- arrow down -->
+  <line x1="360" y1="272" x2="360" y2="300" stroke="#9a9a9a" stroke-width="1.6"/>
+  <polygon points="360,306 355,296 365,296" fill="#9a9a9a"/>
+
+  <!-- PHYSICAL band -->
+  <rect x="160" y="312" width="400" height="40" rx="7" fill="#eaf3ec" stroke="#bcd9c2"/>
+  <text x="360" y="337" text-anchor="middle" font-size="11.5" fill="#2a2a2a">Physical-world event — verified time &amp; place</text>
+
+  <text x="360" y="376" text-anchor="middle" font-size="11.5" font-style="italic" fill="#7a7a7a">Trust grounded in physics, not statistics alone</text>
+</svg>

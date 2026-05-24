@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="12" fill="#ffffff" stroke="#e6e6e6"/>
+  <text x="360" y="36" text-anchor="middle" font-size="17" font-weight="700" fill="#1f1f1f">ENF as a Physically Unforgeable Timestamp</text>
+
+  <!-- waveform band -->
+  <rect x="40" y="56" width="640" height="58" rx="8" fill="#faf3fb" stroke="#e3c9e4"/>
+  <path d="M58 85 Q78 62 98 85 T138 85 Q158 104 178 85 T218 85 Q238 68 258 85 T298 85 Q318 100 338 85 T378 85 Q398 66 418 85 T458 85 Q478 103 498 85 T538 85 Q558 70 578 85 T618 85 Q638 99 662 85"
+        fill="none" stroke="#B509AC" stroke-width="2.2"/>
+  <text x="360" y="106" text-anchor="middle" font-size="10.5" fill="#8a6a8c">Power-grid frequency — 60 Hz with continuous, unpredictable ±0.1 Hz fluctuation</text>
+
+  <!-- pipeline stages -->
+  <g font-size="11.5" fill="#2a2a2a" text-anchor="middle">
+    <rect x="40" y="150" width="146" height="58" rx="8" fill="#eef1f6" stroke="#cdd6e2"/>
+    <text x="113" y="174" font-weight="700">Grid signal</text>
+    <text x="113" y="192" font-size="10">embedded passively in</text>
+    <text x="113" y="204" font-size="10">audio &amp; video capture</text>
+
+    <rect x="226" y="150" width="146" height="58" rx="8" fill="#eef1f6" stroke="#cdd6e2"/>
+    <text x="299" y="174" font-weight="700">Extract ENF</text>
+    <text x="299" y="192" font-size="10">STFT / harmonic</text>
+    <text x="299" y="204" font-size="10">aggregation</text>
+
+    <rect x="412" y="150" width="146" height="58" rx="8" fill="#eef1f6" stroke="#cdd6e2"/>
+    <text x="485" y="174" font-weight="700">Compare</text>
+    <text x="485" y="192" font-size="10">to time-stamped</text>
+    <text x="485" y="204" font-size="10">reference database</text>
+
+    <rect x="598" y="150" width="82" height="58" rx="8" fill="#f7edf7" stroke="#B509AC"/>
+    <text x="639" y="175" font-weight="700" fill="#B509AC">Verdict</text>
+    <text x="639" y="194" font-size="10" fill="#8a6a8c">correlation</text>
+  </g>
+
+  <!-- arrows between stages -->
+  <g stroke="#9a9a9a" stroke-width="1.6" fill="#9a9a9a">
+    <line x1="186" y1="179" x2="222" y2="179"/><polygon points="226,179 216,174 216,184"/>
+    <line x1="372" y1="179" x2="408" y2="179"/><polygon points="412,179 402,174 402,184"/>
+    <line x1="558" y1="179" x2="594" y2="179"/><polygon points="598,179 588,174 588,184"/>
+  </g>
+
+  <!-- outcomes -->
+  <g font-size="11" text-anchor="middle">
+    <rect x="150" y="256" width="220" height="44" rx="8" fill="#eaf3ec" stroke="#bcd9c2"/>
+    <text x="260" y="277" font-weight="700" fill="#2f6b3c">Match</text>
+    <text x="260" y="293" font-size="10" fill="#3a3a3a">authentic time &amp; grid region</text>
+
+    <rect x="392" y="256" width="220" height="44" rx="8" fill="#f7ecec" stroke="#dcc0c0"/>
+    <text x="502" y="277" font-weight="700" fill="#9a3636">Mismatch</text>
+    <text x="502" y="293" font-size="10" fill="#3a3a3a">splice, replay, or deepfake</text>
+  </g>
+  <g stroke="#9a9a9a" stroke-width="1.5" fill="#9a9a9a">
+    <line x1="625" y1="212" x2="320" y2="252"/><polygon points="318,256 322,245 329,253"/>
+    <line x1="639" y1="212" x2="498" y2="252"/><polygon points="500,256 491,249 502,245"/>
+  </g>
+</svg>

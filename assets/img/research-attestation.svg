@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">
+  <rect x="1" y="1" width="718" height="398" rx="12" fill="#ffffff" stroke="#e6e6e6"/>
+  <text x="360" y="36" text-anchor="middle" font-size="17" font-weight="700" fill="#1f1f1f">Environmental Attestation for AI Agents</text>
+
+  <!-- node A: agent -->
+  <rect x="58" y="62" width="208" height="72" rx="9" fill="#eef1f6" stroke="#cdd6e2"/>
+  <text x="162" y="90" text-anchor="middle" font-size="12" font-weight="700" fill="#2a2a2a">AI agent</text>
+  <text x="162" y="108" text-anchor="middle" font-size="10" fill="#3a3a3a">about to take a</text>
+  <text x="162" y="121" text-anchor="middle" font-size="10" fill="#3a3a3a">consequential action</text>
+
+  <!-- node B: capture -->
+  <rect x="454" y="62" width="208" height="72" rx="9" fill="#eef1f6" stroke="#cdd6e2"/>
+  <text x="558" y="86" text-anchor="middle" font-size="12" font-weight="700" fill="#2a2a2a">Capture anchors</text>
+  <text x="558" y="103" text-anchor="middle" font-size="9.5" fill="#3a3a3a">ENF · acoustic · RF · visual</text>
+  <text x="558" y="121" text-anchor="middle" font-size="9.5" fill="#6a6a6a">via TEE-protected trusted path</text>
+
+  <!-- node C: token -->
+  <rect x="454" y="224" width="208" height="72" rx="9" fill="#f7edf7" stroke="#B509AC" stroke-width="1.4"/>
+  <text x="558" y="252" text-anchor="middle" font-size="12" font-weight="700" fill="#B509AC">EnvAT token</text>
+  <text x="558" y="269" text-anchor="middle" font-size="9.5" fill="#7a1a72">weighted fusion of anchors,</text>
+  <text x="558" y="282" text-anchor="middle" font-size="9.5" fill="#7a1a72">hardware-signed evidence object</text>
+
+  <!-- node D: verify -->
+  <rect x="58" y="224" width="208" height="72" rx="9" fill="#eef1f6" stroke="#cdd6e2"/>
+  <text x="162" y="252" text-anchor="middle" font-size="12" font-weight="700" fill="#2a2a2a">Verify &amp; gate</text>
+  <text x="162" y="269" text-anchor="middle" font-size="9.5" fill="#3a3a3a">check signature, freshness,</text>
+  <text x="162" y="282" text-anchor="middle" font-size="9.5" fill="#3a3a3a">confidence against policy</text>
+
+  <!-- loop arrows -->
+  <g stroke="#9a9a9a" stroke-width="1.7" fill="#9a9a9a">
+    <line x1="266" y1="98" x2="448" y2="98"/><polygon points="454,98 444,93 444,103"/>
+    <line x1="558" y1="134" x2="558" y2="218"/><polygon points="558,224 553,214 563,214"/>
+    <line x1="454" y1="260" x2="272" y2="260"/><polygon points="266,260 276,255 276,265"/>
+    <line x1="162" y1="224" x2="162" y2="140"/><polygon points="162,134 157,144 167,144"/>
+  </g>
+  <g font-size="10" fill="#7a7a7a" font-style="italic" text-anchor="middle">
+    <text x="360" y="90">1 · request evidence</text>
+    <text x="600" y="182">2 · sense &amp; sign</text>
+    <text x="360" y="252">3 · return token</text>
+    <text x="120" y="182">4 · verify</text>
+  </g>
+
+  <!-- decision outcomes -->
+  <line x1="162" y1="296" x2="162" y2="324" stroke="#9a9a9a" stroke-width="1.7"/>
+  <polygon points="162,330 157,320 167,320" fill="#9a9a9a"/>
+  <g font-size="11" font-weight="700" text-anchor="middle">
+    <rect x="208" y="332" width="100" height="40" rx="8" fill="#eaf3ec" stroke="#bcd9c2"/>
+    <text x="258" y="357" fill="#2f6b3c">Act</text>
+    <rect x="320" y="332" width="100" height="40" rx="8" fill="#fbf4e6" stroke="#e3d0a6"/>
+    <text x="370" y="357" fill="#8a6a1f">Escalate</text>
+    <rect x="432" y="332" width="100" height="40" rx="8" fill="#f7ecec" stroke="#dcc0c0"/>
+    <text x="482" y="357" fill="#9a3636">Refuse</text>
+  </g>
+  <text x="120" y="357" text-anchor="middle" font-size="10" fill="#7a7a7a" font-style="italic">decision</text>
+</svg>
